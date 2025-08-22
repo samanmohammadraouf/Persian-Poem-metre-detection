@@ -4,7 +4,7 @@ A lightweight repo for detecting the **metre** of a Persian hemistich.
 Given a verse as input, the model outputs a canonical metre sequence (e.g., `مفاعیلن مفاعیلن مفاعیلن فعولن`).
 
 <p align="center">
-<img width="415" height="215" alt="image" align="center" src="https://github.com/user-attachments/assets/2292d97e-2b3b-4f7d-b8f5-34c57d22f403" />
+<img width="300" height="150" alt="image" align="center" src="https://github.com/user-attachments/assets/2292d97e-2b3b-4f7d-b8f5-34c57d22f403" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ We implemented and compared four approaches:
 - **Imbalance handling:** class-weighted cross-entropy.  
 - **Result (val):** macro-F1 ≈ **0.73**
 <p align="center">
-<img width="629" height="581" alt="image" align="center" src="https://github.com/user-attachments/assets/b95708dc-3b87-46ae-a867-a60f1962d89b" />
+<img width="400" height="370" alt="image" align="center" src="https://github.com/user-attachments/assets/b95708dc-3b87-46ae-a867-a60f1962d89b" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ We implemented and compared four approaches:
   - Token-level: **Acc ≈ 0.759**, **F1 ≈ 0.411**
 
 <p align="center">
-<img width="482" height="596" alt="image" align="center" src="https://github.com/user-attachments/assets/98fea681-12d3-4a92-87ae-0224a2cd658a" />
+<img width="300" height="365" alt="image" align="center" src="https://github.com/user-attachments/assets/98fea681-12d3-4a92-87ae-0224a2cd658a" />
 </p>
 ---
 
